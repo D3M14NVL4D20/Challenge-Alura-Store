@@ -32,6 +32,14 @@ Durante el proyecto se trabajaron los siguientes aspectos:
 
 Este proyecto fue realizado como práctica final del módulo de **Ciencia de Datos** del curso de **Alura Latam**. El objetivo principal fue aplicar técnicas básicas de análisis, limpieza y visualización de datos para extraer insights de valor comercial.
 
+El propósito del análisis realizado.
+
+La estructura del proyecto y organización de los archivos.
+
+Ejemplos de gráficos e insights obtenidos.
+
+Instrucciones para ejecutar el notebook.
+
 ## 📌 Autor
 
 Demian  
